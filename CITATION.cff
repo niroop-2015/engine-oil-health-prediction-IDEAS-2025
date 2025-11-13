@@ -15,4 +15,5 @@ date-released: 2025-10-31
 version: "1.0.0"
 license: MIT
 
-abstract: "An AI-driven predictive maintenance system that classifies engine oil health using ML models such as Random Forest, SVM, KNN, Decision Tree, and Neural Networks. The project uses 19,535 samples, SHAP explainability, and feature engineering to build an interpretable maintenance framework."
+repository-code: "https://github.com/sanjeevmanvithvellala/engine-oil-health-prediction-IDEAS-2025"
+abAtract: "An AI-driven predictive maintenance system that classifies engine oil health using ML models such as Random Forest, SVM, KNN, Decision Tree, and Neural Networks. The project uses 19,535 samples, SHAP explainability, and feature engineering to build an interpretable maintenance framework."
