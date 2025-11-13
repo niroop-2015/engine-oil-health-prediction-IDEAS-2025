@@ -1,15 +1,19 @@
 cff-version: 1.2.0
 message: "If you use this project, please cite it as below."
-title: "Engine Oil Health Prediction using ML and DL (IDEAS Internship 2025)"
+title: "Engine Oil Health Prediction (IDEAS Internship 2025)"
 authors:
   - family-names: Baliji
     given-names: Niroop
   - family-names: Vellala
-    given-names: Sanjeev Manvith
+    given-names: "Sanjeev Manvith"
   - family-names: Kottu
-    given-names: Shyam Sailesh
+    given-names: "Shyam Sailesh"
   - family-names: Tallapaka
-    given-names: Vamsi Raghav
+    given-names: "Vamsi Raghav"
+
 date-released: 2025-10-31
 version: "1.0.0"
 license: MIT
+
+repository-code: "https://github.com/<your-username>/<your-repo>"
+abstract: "An AI-driven predictive maintenance system that classifies engine oil health using ML models such as Random Forest, SVM, KNN, Decision Tree, and Neural Networks. The project uses 19,535 samples, SHAP explainability, and feature engineering to build an interpretable maintenance framework."
