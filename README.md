@@ -21,6 +21,9 @@ at ISI Kolkata under mentorship of **Prof. Sandip Bhattacharyya**.
 - `models/` – serialized artifacts
 - `reports/` – final report & slides (non-confidential)
 - `docs/` – design notes and IPR policy
+- 
+### 📌 Project Repository  
+🔗 **GitHub:**"https://github.com/sanjeevmanvithvellala/engine-oil-health-prediction-IDEAS-2025"
 
 ## 🔒 Intellectual Property & License
 This work was developed by **Baliji Niroop, Sanjeev Manvith Vellala, Kottu Shyam Sailesh, and Vamsi Raghav Talapaka**
@@ -29,3 +32,4 @@ All materials are protected under Intellectual Property Rights (IPR).
 Unauthorized reuse or redistribution without citation/permission is prohibited.
 
 © 2025 The Authors. Released under the MIT License (see `LICENSE`).
+
