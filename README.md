@@ -7,9 +7,9 @@ at ISI Kolkata under mentorship of **Prof. Sandip Bhattacharyya**.
 ## 👥 Team
 - Baliji Niroop  
 - Sanjeev Manvith Vellala  
-- Shyam Sailesh  
-- Vamsi Raghav
-
+- Kottu Shyam Sailesh  
+- Vamsi Raghav Talapaka
+- 
 ## 🧪 Methods
 - Models: Logistic Regression, Decision Tree, Random Forest, KNN, SVM, Gradient Boosting, XGBoost,
   Keras Sequential (NN), Stacking Ensemble  
@@ -17,14 +17,13 @@ at ISI Kolkata under mentorship of **Prof. Sandip Bhattacharyya**.
 
 ## 📂 Repository Map
 - `data/` – (no confidential raw data; include samples or synthetic only)
-- `notebooks/` – exploration, cleaning, modeling, SHAP
-- `src/` – reusable pipeline code
-- `models/` – serialized artifacts (if allowed)
+- `notebook/` – exploration, cleaning, modeling, SHAP
+- `models/` – serialized artifacts
 - `reports/` – final report & slides (non-confidential)
 - `docs/` – design notes and IPR policy
 
 ## 🔒 Intellectual Property & License
-This work was developed by **Baliji Niroop, Sanjeev Manvith Vellala, Shyam Sailesh, and Vamsi Raghav**
+This work was developed by **Baliji Niroop, Sanjeev Manvith Vellala, Kottu Shyam Sailesh, and Vamsi Raghav Talapaka**
 during the IDEAS Internship 2025 at ISI Kolkata under **Prof. Sandip Bhattacharyya**.
 All materials are protected under Intellectual Property Rights (IPR).  
 Unauthorized reuse or redistribution without citation/permission is prohibited.
