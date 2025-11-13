@@ -1,0 +1,18 @@
+# data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# models
+models/*
+!models/.gitkeep
+
+# notebooks checkpoints
+**/.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.env
+Add empty .gitkeep files to keep folders.
