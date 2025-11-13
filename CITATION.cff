@@ -2,14 +2,14 @@ cff-version: 1.2.0
 message: "If you use this project, please cite it as below."
 title: "Engine Oil Health Prediction using ML and DL (IDEAS Internship 2025)"
 authors:
-  - family-names: Niroop
-    given-names: Baliji
+  - family-names: 
+    given-names: Niroop Baliji
   - family-names: Vellala
     given-names: Sanjeev Manvith
-  - family-names: Sailesh
-    given-names: Shyam
-  - family-names: Raghav
-    given-names: Vamsi
+  - family-names: Kottu
+    given-names: Shyam Sailesh
+  - family-names: Talapaka
+    given-names: Vamsi Raghav
 date-released: 2025-10-31
 version: "1.0.0"
 license: MIT
